@@ -1,8 +1,16 @@
-h1 {
-    color:red;
-    font-size: 40px;
+* {
+    margin: 0px;
 }
 
-.paragraph {
-    color: blue;
+div.header {
+    color: red;
+}
+
+div.header .paragraph {
+    color: #333;
+    margin: 0px 10px 10px;
+}
+
+div .heading {
+    margin: 20px 10px 10px;
 }
